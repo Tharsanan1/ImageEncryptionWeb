@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.6d3ed627.chunk.js",
-    "main.js.map": "/static/js/main.6d3ed627.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6539bfcb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6539bfcb.js.map",
-    "static/js/2.21da99d0.chunk.js": "/static/js/2.21da99d0.chunk.js",
-    "static/js/2.21da99d0.chunk.js.map": "/static/js/2.21da99d0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.de6c8c53e94d45db1663ff103be74785.js": "/precache-manifest.de6c8c53e94d45db1663ff103be74785.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.21da99d0.chunk.js.LICENSE.txt": "/static/js/2.21da99d0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.js": "/ImageEncryptionWeb/static/js/main.b089e26a.chunk.js",
+    "main.js.map": "/ImageEncryptionWeb/static/js/main.b089e26a.chunk.js.map",
+    "runtime-main.js": "/ImageEncryptionWeb/static/js/runtime-main.df9cfe7a.js",
+    "runtime-main.js.map": "/ImageEncryptionWeb/static/js/runtime-main.df9cfe7a.js.map",
+    "static/js/2.1ea67d51.chunk.js": "/ImageEncryptionWeb/static/js/2.1ea67d51.chunk.js",
+    "static/js/2.1ea67d51.chunk.js.map": "/ImageEncryptionWeb/static/js/2.1ea67d51.chunk.js.map",
+    "index.html": "/ImageEncryptionWeb/index.html",
+    "precache-manifest.ccd30228c8999008f5cef48ea9c72c08.js": "/ImageEncryptionWeb/precache-manifest.ccd30228c8999008f5cef48ea9c72c08.js",
+    "service-worker.js": "/ImageEncryptionWeb/service-worker.js",
+    "static/js/2.1ea67d51.chunk.js.LICENSE.txt": "/ImageEncryptionWeb/static/js/2.1ea67d51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6539bfcb.js",
-    "static/js/2.21da99d0.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6d3ed627.chunk.js"
+    "static/js/runtime-main.df9cfe7a.js",
+    "static/js/2.1ea67d51.chunk.js",
+    "static/js/main.b089e26a.chunk.js"
   ]
 }
